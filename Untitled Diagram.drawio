@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-01-04T12:21:24.209Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="oC-4zj6ZMKRkCr3-u12G" version="20.7.4" type="github"><diagram id="PMiFC-piS2yv07NRrvzo" name="Page-1">1VfbctowEP0az7QPdIxv0EcCJJ0m6QWYNuRNYNV2antdWQ52vr6SLSMbGUqTIbQv4D3atVZndw9CM8dRfkVQ4t+Ci0PN0N1cMyeaYQyHOvvkQFEBlj6sAI8EbgX1JTAPnrAARZyXBS5OW44UIKRB0gbXEMd4TVsYIgQ2bbcfELZ3TZCHFWC+RqGKfg9c6otj2brEP+DA8+ud+7pYiVDtLIDURy5sGpA51cwxAaDVU5SPcci5q3mp4i73rG4TIzimxwT0rNU0mcxm1+P7qef9dBZJOugNRG60qA+MXXZ+YQKhPngQo3Aq0QsCWexi/ladWdLnBiBhYJ+BD5jSQhQTZRQY5NMoFKs4D+gdD39nC2vZWJnk4s2lUdRGTEnRCOLmsrkmw0qrjlNZEsSlkJE1PkCNKboNEQ/TA35O5cd5a2wganCFIcIsH+ZAcIho8NjuKyTa09v6yQqyB1HEvyioyPoRhZnYab4YzRZzpc6yipz4jR9QPE9QyciGTXK7YntZfMSE4vzgucWq6dhViBCC7YRv5Fj161nxGyPl6C+narH6fP9Rv356uBum3xaGa06++h1ULZnSnGEeOhvoeU3rqE3beXbjlXq0c3NLIf4TnEWHak3ptxRFCsxBTTlVvfaP9QvqJUK/QMAy3M6kbertmbR2Zq3KS0TJqo8IQUXDLeEO6YF99Pbsm+bOT9Uf/Ou8ZNNVGcgW3HLyfOV0lK68xWnKrweGE7LaXKxIq0OdXxmUMBAXk94aQiCaOSpfQd70ek38bdk1dQR78vj3hHW9nnEJROXpKbeTkB/sUtVrH6JVlr6OVts7/L/v0GqrQ6uHp9LqgVKc/0eo9wvwEULtnFOoDYX11GdXWEO/YcSVF2yqlOGo7lRasYPEo28S1tlvEqp0/AO02CekhZnyj0slwPLfnzn9DQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-04T13:45:53.344Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="kodnpCjcP2Nlw0TFp1mu" version="20.7.4" type="github">
+  <diagram id="PMiFC-piS2yv07NRrvzo" name="Page-1">
+    <mxGraphModel dx="880" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-4bEpDRRKCZEggk6Tps7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-4bEpDRRKCZEggk6Tps7-3" target="-4bEpDRRKCZEggk6Tps7-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-4bEpDRRKCZEggk6Tps7-3" value="STARTS" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TbOZJ0KzjX8sVT2d3DQh-3" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-4bEpDRRKCZEggk6Tps7-6" target="TbOZJ0KzjX8sVT2d3DQh-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbOZJ0KzjX8sVT2d3DQh-4" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-4bEpDRRKCZEggk6Tps7-6" target="-4bEpDRRKCZEggk6Tps7-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="505" y="330" />
+              <mxPoint x="505" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-4bEpDRRKCZEggk6Tps7-6" value="Message&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Do u want to play?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="290" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TbOZJ0KzjX8sVT2d3DQh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TbOZJ0KzjX8sVT2d3DQh-2" target="TbOZJ0KzjX8sVT2d3DQh-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbOZJ0KzjX8sVT2d3DQh-2" value="print the Logo art" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAZ0owaOgMKmipH3N3Hr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TbOZJ0KzjX8sVT2d3DQh-6" target="EAZ0owaOgMKmipH3N3Hr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TbOZJ0KzjX8sVT2d3DQh-6" value="reads the list and chose ramdonly 2 items in a list&amp;nbsp; for player1 and computer" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EAZ0owaOgMKmipH3N3Hr-1" value="print player 1 first and second card then print computer first item" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
